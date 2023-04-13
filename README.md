@@ -10,4 +10,4 @@
 
 + Например 01:12:59 - один час, 12 минут, 59 секунд.
 
-### [Viewing in github-pages](https://SergeyGramakov.github.io/Quiz/)
+### [Viewing in github-pages](test-countdown-timer)
